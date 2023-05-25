@@ -9,6 +9,6 @@
 
  # Statistics of 10 Runs:
 
-Runs: 87, 80, 90, 84, 83, 86, 83, 87, 84, 86
+Values that fall within the acceptable range (Out of 100 Test Cases): 87, 80, 90, 84, 83, 86, 83, 87, 84, 86
 Standard Deviation, σ: 2.6457513110646
 Mean, μ: 85
